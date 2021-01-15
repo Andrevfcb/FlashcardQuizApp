@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+You can visit this quiz at the link https://andrevfcb.github.io/FlashcardQuizApp/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
